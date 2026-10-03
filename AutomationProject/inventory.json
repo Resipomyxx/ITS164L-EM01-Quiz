@@ -1,0 +1,17 @@
+[
+  {
+    "hostname": "Cat8k-Router",
+    "ip_address": "10.10.20.48",
+    "device_type": "Cisco Catalyst 8000V"
+  },
+  {
+    "hostname": "DevBox-Host",
+    "ip_address": "10.10.20.50",
+    "device_type": "Linux Server"
+  },
+  {
+    "hostname": "Offline-Backup-Rtr",
+    "ip_address": "10.10.20.250",
+    "device_type": "Cisco ISR 4331"
+  }
+]
